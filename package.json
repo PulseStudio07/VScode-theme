@@ -1,0 +1,46 @@
+{
+  "name": "pulse",
+  "displayName": "Pulse",
+  "description": "Conjunto de temas morados para VS Code con variantes claras y oscuras",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pulse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pulse-color-theme.json"
+      },
+      {
+        "label": "Pulse Dark Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pulse-Dark-Purple-color-theme.json"
+      },
+      {
+        "label": "Pulse Dark Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pulse-Dark-Black-color-theme.json"
+      },
+      {
+        "label": "Pulse Light Purple",
+        "uiTheme": "vs",
+        "path": "./themes/Pulse-Light-Purple-color-theme.json"
+      },
+      {
+        "label": "Pulse Purple Light",
+        "uiTheme": "vs",
+        "path": "./themes/Pulse-Purple-Light-color-theme.json"
+      },
+      {
+        "label": "Pulse Neo Dark Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neo-Dark-Purple-color-theme.json"
+      }
+    ]
+  }
+}

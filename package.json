@@ -1,6 +1,7 @@
 {
   "name": "pulse",
   "displayName": "Pulse",
+  "publisher": "irvinbenitez",
   "description": "Conjunto de temas morados para VS Code con variantes claras, oscuras y cyberpunk",
   "version": "1.0.0",
   "author": {

@@ -1,9 +1,10 @@
 {
-  "name": "pulse",
-  "displayName": "Pulse",
+  "name": "Pulse-theme-vscode",
+  "displayName": "Pulse Studio Theme",
   "publisher": "irvinbenitez",
   "description": "Conjunto de temas morados para VS Code con variantes claras, oscuras y cyberpunk",
-  "version": "1.0.0",
+  "icon": "icon.png",
+  "version": "1.0.2",
   "author": {
     "name": "IrvinngB",
     "url": "https://github.com/IrvinngB"
@@ -50,6 +51,21 @@
         "label": "Pulse Neo Dark Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/Neo-Dark-Purple-color-theme.json"
+      },
+      {
+        "label": "Pulse Soft Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pulse-Soft-Purple-color-theme.json"
+      },
+      {
+        "label": "Pulse Balanced Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pulse-Balanced-Purple-color-theme.json"
+      },
+      {
+        "label": "Pulse Comfort Light",
+        "uiTheme": "vs",
+        "path": "./themes/Pulse-Comfort-Light-color-theme.json"
       }
     ]
   }

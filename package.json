@@ -1,8 +1,17 @@
 {
   "name": "pulse",
   "displayName": "Pulse",
-  "description": "Conjunto de temas morados para VS Code con variantes claras y oscuras",
+  "description": "Conjunto de temas morados para VS Code con variantes claras, oscuras y cyberpunk",
   "version": "1.0.0",
+  "author": {
+    "name": "IrvinngB",
+    "url": "https://github.com/IrvinngB"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PulseStudio07/VScode-theme.git"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
